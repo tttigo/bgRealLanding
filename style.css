@@ -30,7 +30,7 @@ body {
 
 /* Título principal */
 h1 {
-  font-size: 1rem;
+  font-size: 1.1rem;
   font-weight: 700;
   margin-bottom: 10px;
   letter-spacing: 3px;
@@ -38,7 +38,7 @@ h1 {
 
 /* Parágrafo de texto */
 p {
-  font-size: 1rem; /* 18px */
+  font-size: 1.1rem; /* 18px */
   line-height: 1.6;
   margin-bottom: 40px;
 }
@@ -46,7 +46,7 @@ p {
 /* Links das redes sociais */
 .social-links a {
   color: #ffffff;
-  font-size: 2rem; /* 32px */
+  font-size: 1.1rem; /* 32px */
   margin: 0 15px;
   text-decoration: none;
   transition: color 0.3s ease, transform 0.3s ease;
