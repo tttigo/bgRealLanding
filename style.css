@@ -30,7 +30,7 @@ body {
 
 /* Título principal */
 h1 {
-  font-size: 3rem; /* 48px */
+  font-size: 1rem;
   font-weight: 700;
   margin-bottom: 10px;
   letter-spacing: 3px;
@@ -38,7 +38,7 @@ h1 {
 
 /* Parágrafo de texto */
 p {
-  font-size: 1.1rem; /* 18px */
+  font-size: 1rem; /* 18px */
   line-height: 1.6;
   margin-bottom: 40px;
 }
